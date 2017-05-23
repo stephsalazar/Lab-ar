@@ -72,3 +72,19 @@ iframe {
   height: 350px;;
   border: 2px solid white;
 }
+
+footer {
+  background-color: #383736;
+}
+
+.redesSociales {
+  color: white;
+  padding-top: 180%;
+}
+
+.tiendas {
+  padding-top: 10%;
+}
+.tiendas img{
+    margin: 2%;
+}
