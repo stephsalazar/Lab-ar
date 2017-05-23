@@ -1,16 +1,21 @@
+.amarillo {
+  background-color: #F7B617;
+}
+
+.textoBlanco {
+  color: white;
+  font-size: 18px;
+}
+
 #disfrutaDelViaje {
   background-image: url("../img/taxi.jpg");
   background-repeat:  space;
   background-size: cover;
   background-position: bottom;
-  width: 100%;
   height: 600px;
 }
 
 .recuadroInformacion {
-  width: 40%;
-  color: white;
-  background-color: #F7B617;
   padding-bottom: 3%;
   margin-top: 10%;
 }
@@ -25,4 +30,19 @@
   background-color: white;
   color: black;
   font-weight: bold;
+}
+
+#iphone {
+  width: 50%;;
+}
+
+.recuadroBordesBlancos {
+  border-top: 2px solid white;
+  border-bottom: 2px solid white;
+  border-right: 2px solid white;
+  padding-left: 5%;
+  padding-top: 5%;
+  padding-bottom: 5%;
+  margin-top: 5%;
+  margin-bottom: 5%;
 }
