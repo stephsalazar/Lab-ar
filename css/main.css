@@ -57,11 +57,18 @@
 
 .opaco {
   background-color: black;
-  opacity: 0.3;
+  opacity: .3;
   padding-top: 5%;
   padding-bottom: 15%;
 }
 
-.botonAmarillo {
+#tarifas {
+  padding-top: 5%;
+  padding-bottom: 5%;
+}
 
+iframe {
+  width: 70%;
+  height: 350px;;
+  border: 2px solid white;
 }
