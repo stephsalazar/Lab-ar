@@ -1,0 +1,8 @@
+#disfrutaDelViaje {
+  background-image: url("../img/taxi.jpg");
+  background-repeat:  space;
+  background-size: cover;
+  width: 100%;
+  height: 600px;
+  background-position: bottom;
+}
