@@ -9,7 +9,7 @@
 
 #disfrutaDelViaje {
   background-image: url("../img/taxi.jpg");
-  background-repeat:  space;
+  background-repeat: no-repeat;
   background-size: cover;
   background-position: bottom;
   height: 600px;
@@ -45,4 +45,23 @@
   padding-bottom: 5%;
   margin-top: 5%;
   margin-bottom: 5%;
+}
+
+#convierteteConductor {
+  background-image: url("../img/conduce.jpg");
+  background-repeat: no-repeat;
+  background-size: cover;
+  background-position: center;
+  height: 400px;
+}
+
+.opaco {
+  background-color: black;
+  opacity: 0.3;
+  padding-top: 5%;
+  padding-bottom: 15%;
+}
+
+.botonAmarillo {
+
 }
