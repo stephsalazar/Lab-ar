@@ -7,6 +7,16 @@
   font-size: 18px;
 }
 
+.menuFijo{
+  position: fixed;
+  z-index: 1;
+  background-color: white;
+}
+
+.enlaces {
+  color: black;
+}
+
 #disfrutaDelViaje {
   background-image: url("../img/taxi.jpg");
   background-repeat: no-repeat;
